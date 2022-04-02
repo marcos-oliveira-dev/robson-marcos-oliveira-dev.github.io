@@ -1,0 +1,59 @@
+body{
+    padding: 3%;
+}
+.meuNome {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.descricao {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 38%;
+    right: 33%;
+}
+
+body {
+    background-color: #DDD8B8;
+}
+
+.local {
+    font-weight: 900;
+}
+
+.col {
+    font-size: 30px;
+}
+
+.auto {
+    font-size: 50px;
+}
+
+.emp {
+    font-size: 40px;
+}
+
+.busc {
+    font-size: 60px;
+}
+
+#minha-foto{
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: blue;
+}
+
+.image-container {
+    height: 300px;
+    position: relative;
+}
+
+.image-container img {
+    max-width: 300px;
+}
+
+ul li:nth-child(odd){
+    background-color: yellow;
+}
+
